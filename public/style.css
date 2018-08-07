@@ -1,9 +1,15 @@
 body {
   background-color: #e2e8dd;
 }
+
 a:hover {
 background-color: #b7d1da;
 }
+
+a:visited{
+background-color: #95a3a4;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
